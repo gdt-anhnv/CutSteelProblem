@@ -9,4 +9,4 @@ Tính số lượng cây thép độ dài L tối thiểu cần thiết để c�
   1. Các cách cắt thép từ cây thép L. Ví dụ: (c1) l1 + l2, (c2) 2*l2 + l3 + l4, ....
   2. Bài toán tối ưu min c1 + c2 + ... + cn thỏa mãn về số lượng thép cho từng loại
 
-Let $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
+# Giải pháp
